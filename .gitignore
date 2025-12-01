@@ -1,0 +1,11 @@
+# Node modules
+frontend/my-react-app/node_modules
+backend/node_modules
+
+# Build output
+frontend/my-react-app/.next
+backend/uploads
+
+# Environment files
+frontend/my-react-app/.env
+backend/.env
