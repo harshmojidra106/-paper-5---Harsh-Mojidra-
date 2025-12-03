@@ -6,6 +6,3 @@ backend/node_modules
 frontend/my-react-app/.next
 backend/uploads
 
-# Environment files
-frontend/my-react-app/.env
-backend/.env
